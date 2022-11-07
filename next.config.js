@@ -14,4 +14,5 @@ module.exports = withPWA({
   experimental: {
     appDir: true,
   },
+  pageExtensions: ["json", "js", "svg", "tsx", "ts"],
 })
