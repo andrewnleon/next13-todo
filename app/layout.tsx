@@ -1,5 +1,5 @@
 import "../styles/globals.css";
-import Toolbar from "./toolbar";
+import Toolbar from "./(admin)/components/Toolbar"
 
 export default function RootLayout({
   children,
@@ -8,7 +8,6 @@ export default function RootLayout({
 }) {
   return (
     <html>
-      <head></head>
       <body>
         <Toolbar />
         {children}
