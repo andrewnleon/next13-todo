@@ -5,9 +5,10 @@
     "id": "/",
     "scope": "/",
     "start_url": "/",
-    "name": "Andrew Leonberger's Portfolio",
-    "short_name": "Andrew Leonberger Portfolio",
-    "description": "Andrew Nelson Leonberger's portfolio website",
+    "orientation": "portrait",
+    "name": "Andrew Leonberger's Todo",
+    "short_name": "Andrew Leonberger Todo",
+    "description": "Andrew Nelson Leonberger's Todo",
     "icons": [
         {
             "src": "/icon-192x192.png",
