@@ -1,5 +1,5 @@
 import "../styles/globals.css";
-import Toolbar from "./(admin)/components/Toolbar"
+import Toolbar from "./(components)/Toolbar"
 
 export default function RootLayout({
   children,

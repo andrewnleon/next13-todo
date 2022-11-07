@@ -1,4 +1,4 @@
-import Search from "../../(admin)/components/Search";
+import Search from "../../(components)/Search";
 
 export default function RootLayout({
   children,

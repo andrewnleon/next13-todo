@@ -1,5 +1,4 @@
-import React, { Suspense } from "react";
-import Todolist from "./(admin)/components/TodoList";
+import React from "react";
 
 function Home() {
   return (

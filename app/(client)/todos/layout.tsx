@@ -1,4 +1,4 @@
-import Todolist from "../../(admin)/components/TodoList";
+import Todolist from "../../(components)/TodoList";
 
 export default function RootLayout({
   children,
