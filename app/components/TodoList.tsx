@@ -4,7 +4,7 @@ import { Todo } from "../../typings";
 
 const fetchTodos = async () => {
   const res = await fetch("https://jsonplaceholder.typicode.com/posts", {
-    cache: "no-store",
+    cache: "force-cache",
   });
   const todos: Todo[] = await res.json();
   return todos;

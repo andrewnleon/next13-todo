@@ -1,6 +1,6 @@
-import Search from "../../(components)/Search";
+import Search from "../components/Search";
 
-export default function RootLayout({
+export default function SearchLayout({
   children,
 }: {
   children: React.ReactNode;

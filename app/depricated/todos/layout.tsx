@@ -1,6 +1,6 @@
-import Todolist from "../../(components)/TodoList";
+import Todolist from "../../components/TodoList";
 
-export default function RootLayout({
+export default function ToDoLayout({
   children,
 }: {
   children: React.ReactNode;

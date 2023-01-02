@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import React from "react";
-import { SearchResult, PageProps } from "../../../../typings";
+import { SearchResult, PageProps } from "../../../typings";
 
 const search = async (searchTerm: string) => {
   const res = await fetch(
