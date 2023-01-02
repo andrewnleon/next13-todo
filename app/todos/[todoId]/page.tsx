@@ -1,5 +1,5 @@
 import React from "react";
-import { Todo, PageProps } from "../../../../typings";
+import { Todo, PageProps } from "../../../typings";
 import { notFound } from "next/navigation";
 
 const fetchTodo = async (todoId: string) => {
